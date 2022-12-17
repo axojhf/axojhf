@@ -1,6 +1,6 @@
 Love C/C++ .NET
 
-Learning Rust Go
+Learning Rust Go Zig
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=axojhf&theme=minimal" />
