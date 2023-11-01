@@ -3,10 +3,10 @@ Love C/C++ .NET
 Learning Rust Go Zig
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=axojhf.README-visitor&left_color=green&right_color=red)
+[![HitCount](https://hits.dwyl.com/axojhf/axojhf.svg?style=flat-square)](http://hits.dwyl.com/axojhf/axojhf)
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=axojhf&theme=react" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=axojhf&theme=react" />
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axojhf)](https://github.com/axojhf)
